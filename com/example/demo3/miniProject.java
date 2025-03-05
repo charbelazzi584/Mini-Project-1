@@ -12,7 +12,7 @@ import javafx.collections.ObservableList;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
-import javafx.scene.control.*;
+import javafx.scene.control.*; 
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.StackPane;
@@ -67,6 +67,7 @@ public class miniProject extends Application {
                 public String get() {
                     return "";
                 }
+efndjd
 
                 @Override
                 public void set(String s) {
