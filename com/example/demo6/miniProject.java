@@ -1,5 +1,4 @@
 package com.example.demo6;
-
 import javafx.application.Application;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
