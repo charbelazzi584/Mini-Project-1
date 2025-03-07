@@ -111,9 +111,14 @@ public class miniProject extends Application {
 
             GridPane grid2= new GridPane();
             grid2.setHgap(10);
-            grid2.setVgap(10);
 
             
+            grid2.setVgap(10);
+
+
+
+
+
 
 
             Text employeeInfo = new Text("Welcome to the Employee Management Information");
