@@ -113,6 +113,8 @@ public class miniProject extends Application {
             grid2.setHgap(10);
             grid2.setVgap(10);
 
+            
+
 
             Text employeeInfo = new Text("Welcome to the Employee Management Information");
             employeeInfo.setFont(Font.font("Tahoma", FontWeight.NORMAL, 15));
